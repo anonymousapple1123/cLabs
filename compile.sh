@@ -1,4 +1,3 @@
 #!/bin/bash
-gcc main.c -o http-server
+gcc main.c -o http_server
 ./http_server
-rm http_server
